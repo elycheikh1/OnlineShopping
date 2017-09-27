@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+*{
+	margin:0;
+	padding:0;
+} 
+
+.header{
+	height:200px;
+	margin:0;
+	padding:0;
+	background-color:lightorange;
+	/* background-image: url('1.jpg'); */
+	color: black;
+}
+
+
+h1{
+	width:300px;
+}
+.lnk{
+	
+}

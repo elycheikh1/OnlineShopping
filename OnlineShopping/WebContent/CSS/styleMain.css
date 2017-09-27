@@ -1,0 +1,63 @@
+@CHARSET "ISO-8859-1";
+*{
+	margin:0;
+	padding:0;
+} 
+hr{
+	width:80%;
+}
+
+.bigContainer{
+	width:50%;
+	float:left;
+}
+.mainContainer{
+	width:80%;
+	margin:auto;
+}
+
+
+.rightBox{
+	width:50%;
+	float:right;
+	height:400px;
+	padding:10px;
+	border-radius: 25px ;
+}
+
+.box{
+	width: 300px;
+}
+hr{
+	clear: left;
+}
+.table1{
+	width:300px;
+	/* margin:auto; */
+}
+.table2{
+	width:600px;
+	margin-bottom:5px;
+	/* margin:auto; */
+}
+
+.border1{
+	border:1px solid lightgreen;
+	padding:30px;
+}
+
+.paymentBox{
+	width:400px;
+
+}
+.card{
+	width:50px;
+}
+
+#totalprice{
+	text-align:center;
+	font-weight:bold;
+}
+
+
+
